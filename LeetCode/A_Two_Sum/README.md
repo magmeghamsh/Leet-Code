@@ -1,6 +1,5 @@
 # Two Sum 
 
-
 ## Description
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
@@ -21,7 +20,7 @@ return [0, 1].
 
 **Pseudo code:**
 
-_My Solution:_
+_Efficient Solution:_
 
 Step 1: Add all the elements in the array into HashMap key and the index into hash map value. map.put(nums[i],i);
 
@@ -29,6 +28,6 @@ Step 2: By using a for loop or any loop see if the current element and the diffe
 
 Step 3: If it exists then return the current index and the Map value for the difference value key
 
-_Time complexity:_  O(n)
+_Time complexity:_  Since there is a single loop the time complexity **O(n)**
 
-_Space Complexity:_ O(1)
+_Space Complexity:_ Set only stores the uniques values. As there are only 26 alphabets the size will be **O(n)**.

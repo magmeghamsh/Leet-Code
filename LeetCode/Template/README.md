@@ -18,12 +18,24 @@
 
 **My Solution:**
 
-_Time complexity:_  
+_Step 1:_
 
-_Space Complexity:_ 
+_Step 2:_
+
+**_Time complexity:_**  
+
+**_Space Complexity:_** 
+
+**Why is it failing?**
+
+=======================================================================================================================
 
 **Efficient Solution:**
 
-_Time complexity:_  
+_Step 1:_
 
-_Space Complexity:_ 
+_Step 2:_
+
+**_Time complexity:_**  
+
+**_Space Complexity:_** 

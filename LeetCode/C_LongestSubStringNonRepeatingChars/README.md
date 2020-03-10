@@ -28,19 +28,34 @@ Explanation: The answer is "wke", with the length of 3.
 
 ## Solution
 
-
 ### Pseudo code:
 
 **My Solution:**
 
+_Step 1:_
 
+_Step 2:_
 
 _Time complexity:_  
 
 _Space Complexity:_ 
+
+**Why is it failing?**
+
+=======================================================================================================================
 
 **Efficient Solution:**
 
-_Time complexity:_  
+Using sliding window technique loop over the string
 
-_Space Complexity:_ 
+_Step 1:_ Initiate leftPointer and rightPointer (as index). Add the values in the set.  
+
+_Step 2:_ If set does not contain the value add the value to the set and then increment the right pointer
+
+_Step 3:_ If set has the value remove the character which is at leftPointer and then increment the value.
+
+_Step 4:_ Through out the process add the set length to a max variable (int) E.g int max = Math.max(set.size(), max); 
+
+_Time complexity:_  Since there is a single loop the time complexity **O(n)**
+
+_Space Complexity:_ Set only stores the uniques values. As there are only 26 alphabets the size will be **O(1)**.

@@ -1,6 +1,5 @@
 # Add Two Numbers
 
-
 ## Description
 
 Given a string, find the length of the longest substring without repeating characters.
@@ -8,24 +7,11 @@ Given a string, find the length of the longest substring without repeating chara
 Single Linked list is given.
 
 ```
-## Example 1:
+Example :
 
-Input: "abcabcbb"
-Output: 3 
-Explanation: The answer is "abc", with the length of 3. 
-
-## Example 2:
-
-Input: "bbbbb"
-Output: 1
-Explanation: The answer is "b", with the length of 1.
-
-## Example 3:
-
-Input: "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3. 
-             Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
+Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+Output: 7 -> 0 -> 8
+Explanation: 342 + 465 = 807.
              
 ```
 ## Solution
@@ -34,12 +20,34 @@ Explanation: The answer is "wke", with the length of 3.
 
 **My Solution:**
 
-_Time complexity:_  O(n)
+_Step 1:_ Write a method which will take input as the node and returns the number as long
 
-_Space Complexity:_ O(1)
+In this method, you would create a number by using the node thru the below algorithm
+
+Each element * its unit position
+
+For example: 342 ==> 3 *1 + 4 * 10 + 5 * 100;
+
+_Step 2:_ add the numbers (list 1 + list 2)
+
+_Step 3:_ Convert the (int)sum into ListNode
+
+**_Time complexity:_**  O(n)
+
+**_Space Complexity:_** O(1)
+
+**Why is it failing?**
+
+The Solution fails if the ListNode is more than the Long value
+
+=======================================================================================================================
 
 **Efficient Solution:**
 
-_Time complexity:_  O(n)
+_Step 1:_ 
 
-_Space Complexity:_ O(1)
+_Step 2:_
+
+**_Time complexity:_**  O(n)
+
+**_Space Complexity:_** O(1)
