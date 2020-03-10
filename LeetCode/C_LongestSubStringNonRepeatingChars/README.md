@@ -28,7 +28,6 @@ Explanation: The answer is "wke", with the length of 3.
 
 ## Solution
 
-## Solution
 
 ### Pseudo code:
 
