@@ -44,5 +44,5 @@ _Step 2:_
 ## Rules
 
 1. Complete Daily 2 Problems (Medium)
-2. Spend 15 mins to get the Psuedo Code
+2. Spend 15 mins to get the Pseudo Code
 3. Try to understand the effiecient solution approach if your solution doesnt work
