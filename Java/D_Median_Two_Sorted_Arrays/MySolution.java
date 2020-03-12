@@ -7,7 +7,8 @@ public class MySolution {
     public static void main (String [] args) {
         int[] a = {1,2,3,4};
         int [] b = {10,12,13,16};
-        findMedianSortedArrays(a,b);
+        double result = findMedianSortedArrays(a,b);
+        System.out.println("Result: "+result); // The result should be 7.0
 
     }
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
