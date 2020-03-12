@@ -1,0 +1,47 @@
+*/target/*
+alexkchavez.*
+.cache
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+socure/target/*
+
+#Mac file
+.DS_Store
+
+#Build files
+*.log
+*.war
+*.jar
+*.tmp
+*.classpath
+bin/
+out/
+obj/
+target*
+.project
+.idea/
+
+
+*.prefs
+*/.settings*/*
+*/.project*
+*/target*
+*/classes*/*
+*/rebel.xml
+
+parsejson.conf
+
+**/scalastyle-output.xml
+.scalastyle
+
+*.iml
+
+dependency-reduced-pom.xml
+# Emacs (I know, it's just me)
+*~
