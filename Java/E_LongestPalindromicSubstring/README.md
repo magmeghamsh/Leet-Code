@@ -1,14 +1,19 @@
-# 
+# Longest substring palindrome
 
 
 ## Description
 
-
+Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
 
 ```
-** Example: **
+Example 1:
 
+Input: "babad"
+Output: "bab"
+Note: "aba" is also a valid answer.
+Example 2:
 
+Input: "cbbd"
 
 ```
 
@@ -35,6 +40,9 @@ and for 1000 characters we end up with 2200 combinations -> O(2n) which is  O(n)
 **_Space Complexity:_** 
 
 **Why is it failing?**
+
+
+The time complexity is o(n2) for creating the substring and the o(n) for checking it is a palindrome. So the total complexity is O(n3).
 
 ======================================================================================
 
