@@ -1,4 +1,4 @@
-package Java.Misc.slidingwindow;
+package Java.ZZZZ_Misc.slidingwindow;
 
 import java.util.HashSet;
 

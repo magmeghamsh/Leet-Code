@@ -24,6 +24,7 @@ public class EfficientSolution {
         int interval = 2 * numRows -2;
         for(int i =0; i<numRows; i++){
             int step = interval - 2*i;
+            int start  = 0;
             for (int j=i; j< lengthOfGivenString; j += interval){
                 charsArray[counter] = s.charAt(j);
                 System.out.println("Counter : "+ counter +" character : "+charsArray[counter]);

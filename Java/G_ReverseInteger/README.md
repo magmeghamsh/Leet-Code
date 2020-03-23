@@ -31,15 +31,17 @@ Assume we are dealing with an environment which could only store integers within
 
 **My Solution:**
 
-_Step 1:_
+_Step 1:_ Divide (/) and perform mod (%) the given integer by 10 and store the output in 2 different datatypes and add the mod result to a String.
 
-_Step 2:_
+_Step 2:_ Loop the above until you have all the numbers in the given integer.
 
-**_Time complexity:_**  
+**_Time complexity:_**  O(n) for removing the zeros at the end and O(n) for reversing the integer. So the total time will be O(n)
 
-**_Space Complexity:_** 
+**_Space Complexity:_** O(1)
 
 **Why is it failing?**
+
+The logic is complex and the overflow is not handled properly
 
 =======================================================================================================================
 

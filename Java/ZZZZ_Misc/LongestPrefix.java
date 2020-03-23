@@ -1,4 +1,4 @@
-package Java.Misc;
+package Java.ZZZZ_Misc;
 
 public class LongestPrefix {
 

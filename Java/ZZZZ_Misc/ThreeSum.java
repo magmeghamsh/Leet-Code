@@ -1,4 +1,4 @@
-package Java.Misc;
+package Java.ZZZZ_Misc;
 
 import java.util.ArrayList;
 import java.util.Arrays;
