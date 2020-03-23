@@ -13,8 +13,8 @@ public class EfficientSolution {
     int start = 0;
     int end = 0;
     for (int i = 0; i < s.length(); i++) {
-      int length1 = expandFromCenter(s, i, i);
-      int length2 = expandFromCenter(s, i, i + 1);
+      int length1 = expandEachElement(s, i, i);
+      int length2 = expandEachElement(s, i, i + 1);
       int len = Math.max(length1, length2);
         System.out.println("Length of the substring: " + len);
       if (len > end - start) {
@@ -27,7 +27,7 @@ public class EfficientSolution {
     return s.substring(start, end+1);
   }
 
-  private static int expandFromCenter(String s, int leftPointer, int rightPointer) {
+  private static int expandEachElement(String s, int leftPointer, int rightPointer) {
    // System.out.println("LeftPointer: " + leftPointer + " rightPointer: " + rightPointer);
     while (leftPointer >= 0
         && rightPointer < s.length()

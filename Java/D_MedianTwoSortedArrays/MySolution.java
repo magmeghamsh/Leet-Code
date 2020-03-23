@@ -1,4 +1,4 @@
-package Java.D_Median_Two_Sorted_Arrays;
+package Java.D_MedianTwoSortedArrays;
 
 import java.util.Arrays;
 
