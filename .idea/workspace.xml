@@ -2,30 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d03fe00b-134f-43ad-8667-45818df52e02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ZZZZ_Pictures/Intro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/ZZZZ_Template/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/J_RegularExpressionMatching/EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/J_RegularExpressionMatching/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/J_RegularExpressionMatching/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/K_ContainerWithMostWater/EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/K_ContainerWithMostWater/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/K_ContainerWithMostWater/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/L_IntegertoRoman/EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/L_IntegertoRoman/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/L_IntegertoRoman/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/M_IntegertoRoman/EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/M_IntegertoRoman/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/M_IntegertoRoman/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/N_RomantoInteger/EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/N_RomantoInteger/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/N_RomantoInteger/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/P_3Sum/EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/P_3Sum/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/P_3Sum/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Q_3SumClosest/EfficientSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Q_3SumClosest/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Q_3SumClosest/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/F_ZigZagConversion/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/F_ZigZagConversion/EfficientSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/G_ReverseInteger/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/G_ReverseInteger/EfficientSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/G_ReverseInteger/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/G_ReverseInteger/MySolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/G_ReverseInteger/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/G_ReverseInteger/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/IsPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/LongestPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/LongestPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/SwitchElementsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/SwitchElementsInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/TraverseaTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/TraverseaTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/ValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/slidingwindow/LongestSubStringNonRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/LongestSubStringNonRepeatingCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/slidingwindow/LongestSubStringPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/LongestSubStringPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/slidingwindow/MaxSumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/MaxSumInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/slidingwindow/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/slidingwindow/SubArraySumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/SubArraySumEqualsK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Misc/slidingwindow/SubArraysWithDistinctElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/SubArraysWithDistinctElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Template/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Template/EfficientSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Template/MySolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Template/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Template/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/H_StringToInteger/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/H_StringToInteger/MySolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java/Q_3SumClosest" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,14 +63,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Java" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Java/ZZZZ_Pictures" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java/Q_3SumClosest" />
+      <recent name="$PROJECT_DIR$/Java/P_3Sum" />
+      <recent name="$PROJECT_DIR$/Java/O_LongestCommonPrefix" />
+      <recent name="$PROJECT_DIR$/Java/N_RomantoInteger" />
+      <recent name="$PROJECT_DIR$/Java/M_IntegertoRoman" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.EfficientSolution (1)">
+  <component name="RunManager" selected="Application.MySolution (2)">
     <configuration name="EfficientSolution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.G_ReverseInteger.EfficientSolution" />
       <module name="Leet-Code" />
@@ -108,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MySolution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.H_StringToInteger.MySolution" />
+      <module name="Leet-Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.H_StringToInteger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MySolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.F_ZigZagConversion.MySolution" />
       <module name="Leet-Code" />
@@ -123,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MySolution (2)" />
         <item itemvalue="Application.EfficientSolution (1)" />
         <item itemvalue="Application.MySolution (1)" />
         <item itemvalue="Application.EfficientSolution" />
@@ -142,7 +162,8 @@
       <updated>1584395501191</updated>
       <workItem from="1584395505716" duration="65000" />
       <workItem from="1584395581127" duration="1092000" />
-      <workItem from="1584465229896" duration="20629000" />
+      <workItem from="1584465229896" duration="27943000" />
+      <workItem from="1585611397342" duration="4667000" />
     </task>
     <servers />
   </component>
@@ -150,34 +171,55 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1585005633309">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1398" height="253" key="GridCell.Tab.0.bottom" timestamp="1585529427658">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585005633309" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1585005633308">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585090739730" />
+    <state width="1398" height="253" key="GridCell.Tab.0.bottom/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427658" />
+    <state width="1398" height="253" key="GridCell.Tab.0.center" timestamp="1585529427658">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585005633308" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1585005633307">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585090739729" />
+    <state width="1398" height="253" key="GridCell.Tab.0.center/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427658" />
+    <state width="1398" height="253" key="GridCell.Tab.0.left" timestamp="1585529427657">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585005633307" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1585005633308">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585090739728" />
+    <state width="1398" height="253" key="GridCell.Tab.0.left/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427657" />
+    <state width="1398" height="253" key="GridCell.Tab.0.right" timestamp="1585529427658">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585005633308" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585090739730" />
+    <state width="1398" height="253" key="GridCell.Tab.0.right/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427658" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom" timestamp="1585529427659">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center" timestamp="1585529427659">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left" timestamp="1585529427659">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right" timestamp="1585529427659">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
     <state x="1738" y="152" key="SettingsEditor" timestamp="1584395608918">
       <screen x="1440" y="0" width="1680" height="1050" />
     </state>
     <state x="1738" y="152" key="SettingsEditor/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1584395608918" />
-    <state x="-1217" y="424" key="com.intellij.ide.util.TipDialog" timestamp="1584466336867">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state x="397" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1585611428693">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="-1217" y="424" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1584466336867" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1584395514763" />
-    <state x="-1175" y="328" width="670" height="676" key="search.everywhere.popup" timestamp="1584970811776">
+    <state x="397" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585611428693" />
+    <state x="-1175" y="328" width="670" height="676" key="search.everywhere.popup" timestamp="1585011929373">
       <screen x="-1680" y="95" width="1680" height="1050" />
     </state>
-    <state x="-1175" y="328" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1584970811776" />
+    <state x="-1175" y="328" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1585011929373" />
   </component>
 </project>
