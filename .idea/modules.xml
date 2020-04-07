@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Interview-Prep/Interview-Prep.iml" filepath="$PROJECT_DIR$/../Interview-Prep/Interview-Prep.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leet-Code.iml" filepath="$PROJECT_DIR$/Leet-Code.iml" />
     </modules>
   </component>
