@@ -35,29 +35,8 @@ Could you solve it without converting the integer to a string?
 
 _Step 1:_
 
-_Step 2:_
+Reverse integer and validate it with the original value.
 
-**_Time complexity:_**  
+**_Time complexity:_**  Since it is a linear search the tine complexity is **O(n)**
 
-**_Space Complexity:_** 
-
-**Why is it failing?**
-
-=======================================================================================================================
-
-**Efficient Solution:**
-
-_Step 1:_
-
-_Step 2:_
-
-**_Time complexity:_**  
-
-**_Space Complexity:_** 
-
-=======================================================================================================================
-## Rules
-
-1. Complete Daily 2 Problems (Medium)
-2. Spend 15 mins to get the Pseudo Code
-3. Try to understand the effiecient solution approach if your solution doesnt work
+**_Space Complexity:_** O(1) as we are only using a single variable
