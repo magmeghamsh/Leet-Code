@@ -1,14 +1,25 @@
-# 
-
+# Longest Common Prefix 
 
 ## Description
 
+Write a function to find the longest common prefix string amongst an array of strings.
 
+If there is no common prefix, return an empty string "".
+
+Note:
+
+All given inputs are in lowercase letters a-z.
 
 ```
-** Example: **
+Example 1:
 
+Input: ["flower","flow","flight"]
+Output: "fl"
+Example 2:
 
+Input: ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
 
 ```
 
@@ -16,17 +27,17 @@
 
 ### Pseudo code:
 
-**My Solution:**
+From the given array take the first string and compare each letter with the remaining strings if a letter matches with
 
-_Step 1:_
+all the strings concat it with the result string if any letter doesnt match break the loop and return the string
 
-_Step 2:_
+**_Time complexity:_**  O(n2) Since it has 2 nested while loops.
 
-**_Time complexity:_**  
+**_Space Complexity:_** O(1)
 
-**_Space Complexity:_** 
+**Why is it failing?** 
 
-**Why is it failing?**
+Too many conditions making the algorithm complex. And it is failing to handle few cases
 
 =======================================================================================================================
 
@@ -34,15 +45,8 @@ _Step 2:_
 
 _Step 1:_
 
-_Step 2:_
+Use the String index to get the prefix
 
-**_Time complexity:_**  
+**_Time complexity:_**  O(n)
 
-**_Space Complexity:_** 
-
-=======================================================================================================================
-## Rules
-
-1. Complete Daily 2 Problems (Medium)
-2. Spend 15 mins to get the Pseudo Code
-3. Try to understand the effiecient solution approach if your solution doesnt work
+**_Space Complexity:_** O(1)
