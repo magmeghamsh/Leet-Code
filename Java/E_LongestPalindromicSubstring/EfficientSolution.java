@@ -1,4 +1,4 @@
-package Java.E_LongestPalindromicSubstring;
+package Tech.E_LongestPalindromicSubstring;
 
 public class EfficientSolution {
 

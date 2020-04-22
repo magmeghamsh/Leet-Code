@@ -1,4 +1,4 @@
-package Java.ZZZZ_Misc.slidingwindow;
+package Tech.ZZZZ_Misc.slidingwindow;
 
 public class MaxSumInArray {
 

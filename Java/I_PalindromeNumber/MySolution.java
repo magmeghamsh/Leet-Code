@@ -1,4 +1,4 @@
-package Java.I_PalindromeNumber;
+package Tech.I_PalindromeNumber;
 
 public class MySolution {
 

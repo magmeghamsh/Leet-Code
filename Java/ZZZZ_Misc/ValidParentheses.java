@@ -1,4 +1,4 @@
-package Java.ZZZZ_Misc;
+package Tech.ZZZZ_Misc;
 
 import java.util.HashSet;
 import java.util.Set;

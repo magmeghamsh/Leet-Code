@@ -1,4 +1,4 @@
-package Java.G_ReverseInteger;
+package Tech.G_ReverseInteger;
 
 public class EfficientSolution {
 

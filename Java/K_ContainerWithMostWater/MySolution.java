@@ -1,4 +1,4 @@
-package Java.K_ContainerWithMostWater;
+package Tech.K_ContainerWithMostWater;
 
 public class MySolution {
 

@@ -2,14 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d03fe00b-134f-43ad-8667-45818df52e02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Interview-Prep/Resume/CharlesSchwab/HireVueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview-Prep/Resume/CompanyExperiences/Socure/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/DetectCycleInLinkedList/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/RotateImage/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/RotateImage/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview-Prep/SystemDesign/A_Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Interview-Prep/SystemDesign/A_Intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/N_RomantoInteger/EfficientSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/N_RomantoInteger/MySolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/N_RomantoInteger/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/A_TwoSum/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/A_TwoSum/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/A_TwoSum/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/A_TwoSum/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/B_AddTwoNumbers/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/B_AddTwoNumbers/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/B_AddTwoNumbers/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/B_AddTwoNumbers/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/B_AddTwoNumbers/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/B_AddTwoNumbers/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/C_LongestSubStringNonRepeatingChars/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/C_LongestSubStringNonRepeatingChars/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/C_LongestSubStringNonRepeatingChars/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/C_LongestSubStringNonRepeatingChars/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/D_MedianTwoSortedArrays/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/D_MedianTwoSortedArrays/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/D_MedianTwoSortedArrays/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/D_MedianTwoSortedArrays/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/E_LongestPalindromicSubstring/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/E_LongestPalindromicSubstring/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/E_LongestPalindromicSubstring/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/E_LongestPalindromicSubstring/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/F_ZigZagConversion/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/F_ZigZagConversion/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/F_ZigZagConversion/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/F_ZigZagConversion/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/G_ReverseInteger/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/G_ReverseInteger/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/G_ReverseInteger/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/G_ReverseInteger/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/H_StringToInteger/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/H_StringToInteger/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/H_StringToInteger/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/H_StringToInteger/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/I_PalindromeNumber/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/I_PalindromeNumber/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/J_RegularExpressionMatching/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/J_RegularExpressionMatching/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/J_RegularExpressionMatching/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/J_RegularExpressionMatching/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/K_ContainerWithMostWater/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/K_ContainerWithMostWater/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/K_ContainerWithMostWater/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/K_ContainerWithMostWater/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/L_IntegertoRoman/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/L_IntegertoRoman/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/M_RomanToInteger/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/M_RomanToInteger/MySolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/EfficientSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/MySolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java/O_LongestCommonPrefix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/P_3Sum/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/P_3Sum/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/P_3Sum/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/P_3Sum/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Q_3SumClosest/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Q_3SumClosest/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Q_3SumClosest/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Q_3SumClosest/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/IsPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/LongestPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/LongestPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/SwitchElementsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/SwitchElementsInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/TraverseaTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/TraverseaTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/LongestSubStringNonRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/LongestSubStringNonRepeatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/LongestSubStringPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/LongestSubStringPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/MaxSumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/MaxSumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/SubArraySumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/SubArraySumEqualsK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/SubArraysWithDistinctElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Misc/slidingwindow/SubArraysWithDistinctElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Template/EfficientSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Template/EfficientSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/ZZZZ_Template/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/ZZZZ_Template/MySolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +60,68 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../SpringBootApi">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../SpringBootApi/api">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../SpringBootApi/springbootapis">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../SpringBootApi/springbootapis/application">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../SpringBootApi/api">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../SpringBootApi">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../SpringBootApi/springbootapis">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../SpringBootApi/springbootapis/cache">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springbootapis" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springbootapis" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,23 +132,29 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZEDkH4JVg7kBGRS8klwWrrYpcK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/../PersonalResume/CenturyLink" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Interview-Prep/Resume/BehavoiuralQuestions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java/48_RotateImage" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,34 +162,37 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Interview-Prep/Resume/BehavoiuralQuestions" />
-      <recent name="$PROJECT_DIR$/../Interview-Prep/Resume/CharlesSchwab" />
-      <recent name="$PROJECT_DIR$/../Interview-Prep/OOPS" />
-      <recent name="$PROJECT_DIR$/Java/Q_3SumClosest" />
-      <recent name="$PROJECT_DIR$/Java/P_3Sum" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Tech" />
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Resume" />
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Java/Z_Images" />
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Java/MultiThreading/Thread" />
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Java.O_LongestCommonPrefix" />
       <recent name="Resume.CharlesSchwab" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AsymptoticNotations" />
-      <recent name="$PROJECT_DIR$/Java/ZZZZ_Pictures" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java/48_RotateImage" />
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Resume/CompanyExperiences/Socure" />
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Resume/BehavoiuralQuestions" />
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Java/MultiThreading/ExecutorService" />
+      <recent name="$PROJECT_DIR$/../Interview-Prep/Java/MultiThreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EfficientSolution">
-    <configuration name="EfficientSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.O_LongestCommonPrefix.EfficientSolution" />
-      <module name="Leet-Code" />
+  <component name="RunManager" selected="Application.MySolution (1)">
+    <configuration name="ExecutorServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tech.MultiThreading.ExecutorService.ExecutorServiceTest" />
+      <module name="Interview-Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.O_LongestCommonPrefix.*" />
+          <option name="PATTERN" value="Tech.MultiThreading.ExecutorService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySolution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.M_RomanToInteger.MySolution" />
-      <module name="Leet-Code" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tech.DataStructures.Collections.Hashing.HashMapDemo" />
+      <module name="Interview-Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.M_RomanToInteger.*" />
+          <option name="PATTERN" value="Tech.DataStructures.Collections.Hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySolution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.L_IntegertoRoman.MySolution" />
-      <module name="Leet-Code" />
+    <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.MultiThreading.Thread.MainApp" />
+      <module name="Interview-Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.L_IntegertoRoman.*" />
+          <option name="PATTERN" value="Java.MultiThreading.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySolution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.O_LongestCommonPrefix.MySolution" />
-      <module name="Leet-Code" />
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tech.MultiThreading.Thread.MainApp" />
+      <module name="Interview-Prep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.O_LongestCommonPrefix.*" />
+          <option name="PATTERN" value="Tech.MultiThreading.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +239,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Test" />
+    <configuration name="MySolution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.DetectCycleInLinkedList.MySolution" />
       <module name="Leet-Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.*" />
+          <option name="PATTERN" value="Java.DetectCycleInLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.RotateImage.MySolution" />
+      <module name="Leet-Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.RotateImage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,13 +312,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.meg.application.SpringApiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EfficientSolution" />
-        <item itemvalue="Application.MySolution (4)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MySolution (2)" />
-        <item itemvalue="Application.MySolution (3)" />
+        <item itemvalue="Application.MySolution (1)" />
+        <item itemvalue="Application.MySolution" />
+        <item itemvalue="Application.HashMapDemo" />
+        <item itemvalue="Application.ExecutorServiceTest" />
+        <item itemvalue="Application.MainApp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,92 +350,168 @@
       <workItem from="1586307963172" duration="3000" />
       <workItem from="1586366523687" duration="5675000" />
       <workItem from="1586467211779" duration="2686000" />
-      <workItem from="1586796580688" duration="7407000" />
+      <workItem from="1586796580688" duration="54393000" />
+      <workItem from="1587133822537" duration="2817000" />
+      <workItem from="1587387023572" duration="18210000" />
+      <workItem from="1587476828609" duration="2321000" />
+      <workItem from="1587482574820" duration="735000" />
+      <workItem from="1587492953128" duration="16164000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1240" y="285" key="#Project_Structure" timestamp="1586994749908">
+      <screen x="-1680" y="95" width="1680" height="1050" />
+    </state>
+    <state x="-1240" y="285" key="#Project_Structure/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586994749908" />
+    <state x="-1240" y="285" key="#Project_Structure/0.23.1440.877/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586989214542" />
+    <state x="-1240" y="285" key="#SQL_Dialects" timestamp="1586987383866">
+      <screen x="-1680" y="95" width="1680" height="1050" />
+    </state>
+    <state x="-1240" y="285" key="#SQL_Dialects/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586987383866" />
+    <state x="-1197" y="242" key="#SpringApiApplication" timestamp="1586987672313">
+      <screen x="-1680" y="95" width="1680" height="1050" />
+    </state>
+    <state x="-1197" y="242" key="#SpringApiApplication/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586987672313" />
+    <state x="-1240" y="285" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586994769873">
+      <screen x="-1680" y="95" width="1680" height="1050" />
+    </state>
+    <state x="-1240" y="285" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586994769873" />
+    <state x="-1097" y="430" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586977342268">
+      <screen x="-1680" y="95" width="1680" height="1050" />
+    </state>
+    <state x="-1097" y="430" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586977342268" />
+    <state x="-1027" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1587405465008">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
+    </state>
+    <state x="-1027" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587405465008" />
+    <state x="-1027" y="336" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587395973090" />
+    <state x="-1103" y="411" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586988136304">
+      <screen x="-1680" y="95" width="1680" height="1050" />
+    </state>
+    <state x="-1103" y="411" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586988136304" />
+    <state x="-988" y="527" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586995307878">
+      <screen x="-1680" y="95" width="1680" height="1050" />
+    </state>
+    <state x="-988" y="527" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586995307878" />
+    <state x="397" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1587065915969">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1587065915969" />
     <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586306565484">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1586306565484" />
-    <state width="1638" height="275" key="GridCell.Tab.0.bottom" timestamp="1586810987229">
+    <state x="-1206" y="380" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587520761825">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
+    </state>
+    <state x="-1206" y="380" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587520761825" />
+    <state x="-1206" y="552" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587084737570" />
+    <state x="406" y="392" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1587160137594" />
+    <state x="-1102" y="374" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586976134073">
       <screen x="-1680" y="95" width="1680" height="1050" />
     </state>
-    <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586810987229" />
+    <state x="-1102" y="374" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586976134073" />
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom" timestamp="1587527997034">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587527997034" />
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587397589813" />
     <state width="1398" height="293" key="GridCell.Tab.0.bottom/0.0.1440.900/-1680.95.1680.1050@0.0.1440.900" timestamp="1586467134909" />
     <state width="1398" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586470847885" />
     <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1586753246262" />
     <state width="1398" height="253" key="GridCell.Tab.0.bottom/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427658" />
-    <state width="1638" height="275" key="GridCell.Tab.0.center" timestamp="1586810987228">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="275" key="GridCell.Tab.0.center" timestamp="1587527997033">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
     </state>
-    <state width="1638" height="275" key="GridCell.Tab.0.center/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586810987228" />
+    <state width="1638" height="275" key="GridCell.Tab.0.center/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587527997033" />
+    <state width="1638" height="275" key="GridCell.Tab.0.center/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587397589811" />
     <state width="1398" height="293" key="GridCell.Tab.0.center/0.0.1440.900/-1680.95.1680.1050@0.0.1440.900" timestamp="1586467134908" />
     <state width="1398" height="275" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586470847884" />
     <state width="1638" height="275" key="GridCell.Tab.0.center/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1586753246261" />
     <state width="1398" height="253" key="GridCell.Tab.0.center/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427658" />
-    <state width="1638" height="275" key="GridCell.Tab.0.left" timestamp="1586810987227">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="275" key="GridCell.Tab.0.left" timestamp="1587527997032">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
     </state>
-    <state width="1638" height="275" key="GridCell.Tab.0.left/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586810987227" />
+    <state width="1638" height="275" key="GridCell.Tab.0.left/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587527997032" />
+    <state width="1638" height="275" key="GridCell.Tab.0.left/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587397589810" />
     <state width="1398" height="293" key="GridCell.Tab.0.left/0.0.1440.900/-1680.95.1680.1050@0.0.1440.900" timestamp="1586467134907" />
     <state width="1398" height="275" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586470847884" />
     <state width="1638" height="275" key="GridCell.Tab.0.left/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1586753246261" />
     <state width="1398" height="253" key="GridCell.Tab.0.left/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427657" />
-    <state width="1638" height="275" key="GridCell.Tab.0.right" timestamp="1586810987229">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="275" key="GridCell.Tab.0.right" timestamp="1587527997033">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
     </state>
-    <state width="1638" height="275" key="GridCell.Tab.0.right/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586810987229" />
+    <state width="1638" height="275" key="GridCell.Tab.0.right/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587527997033" />
+    <state width="1638" height="275" key="GridCell.Tab.0.right/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587397589812" />
     <state width="1398" height="293" key="GridCell.Tab.0.right/0.0.1440.900/-1680.95.1680.1050@0.0.1440.900" timestamp="1586467134908" />
     <state width="1398" height="275" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586470847885" />
     <state width="1638" height="275" key="GridCell.Tab.0.right/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1586753246262" />
     <state width="1398" height="253" key="GridCell.Tab.0.right/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427658" />
-    <state width="1638" height="362" key="GridCell.Tab.1.bottom" timestamp="1586806706479">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom" timestamp="1587526647855">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
     </state>
-    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586806706479" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587526647855" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587085724770" />
     <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
-    <state width="1638" height="362" key="GridCell.Tab.1.center" timestamp="1586806706477">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center" timestamp="1587526647853">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
     </state>
-    <state width="1638" height="362" key="GridCell.Tab.1.center/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586806706477" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587526647853" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587085724769" />
     <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
-    <state width="1638" height="362" key="GridCell.Tab.1.left" timestamp="1586806706477">
-      <screen x="-1680" y="95" width="1680" height="1050" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left" timestamp="1587526647852">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
     </state>
-    <state width="1638" height="362" key="GridCell.Tab.1.left/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586806706477" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587526647852" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587085724769" />
     <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
-    <state width="1638" height="362" key="GridCell.Tab.1.right" timestamp="1586806706478">
+    <state width="1638" height="362" key="GridCell.Tab.1.right" timestamp="1587526647854">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587526647854" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587085724770" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
+    <state x="-1220" y="369" width="704" height="598" key="NewModule_or_Project.wizard" timestamp="1586989473262">
       <screen x="-1680" y="95" width="1680" height="1050" />
     </state>
-    <state width="1638" height="362" key="GridCell.Tab.1.right/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586806706478" />
-    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585529427659" />
-    <state x="-1220" y="386" width="703" height="598" key="NewModule_or_Project.wizard" timestamp="1585786281179">
-      <screen x="-1680" y="118" width="1680" height="1027" />
-    </state>
+    <state x="-1220" y="369" width="704" height="598" key="NewModule_or_Project.wizard/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586989473262" />
     <state x="-1220" y="386" width="703" height="598" key="NewModule_or_Project.wizard/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1585786281179" />
-    <state x="-1382" y="267" key="SettingsEditor" timestamp="1585788414101">
-      <screen x="-1680" y="118" width="1680" height="1027" />
+    <state x="-1382" y="75" key="SettingsEditor" timestamp="1587525377263">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
     </state>
+    <state x="-1382" y="75" key="SettingsEditor/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587525377263" />
+    <state x="-1382" y="247" key="SettingsEditor/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586996254428" />
     <state x="1738" y="152" key="SettingsEditor/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1584395608918" />
     <state x="-1382" y="267" key="SettingsEditor/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1585788414101" />
-    <state x="534" y="261" key="chooseDestDirectoryDialog" timestamp="1585787868633">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="534" y="261" key="chooseDestDirectoryDialog/0.0.1440.900/-1680.95.1680.1050@0.0.1440.900" timestamp="1585787868633" />
-    <state x="-1057" y="416" key="chooseDestDirectoryDialog/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1585787802195" />
-    <state x="-1217" y="424" key="com.intellij.ide.util.TipDialog" timestamp="1586796580832">
+    <state x="-1382" y="247" key="SettingsEditor/0.23.1440.877/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586989022410" />
+    <state x="-1057" y="400" key="chooseDestDirectoryDialog" timestamp="1586995388694">
       <screen x="-1680" y="95" width="1680" height="1050" />
     </state>
-    <state x="-1217" y="424" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586796580832" />
+    <state x="-1057" y="400" key="chooseDestDirectoryDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586995388694" />
+    <state x="534" y="261" key="chooseDestDirectoryDialog/0.0.1440.900/-1680.95.1680.1050@0.0.1440.900" timestamp="1585787868633" />
+    <state x="-1057" y="416" key="chooseDestDirectoryDialog/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1585787802195" />
+    <state x="-1217" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1587492954375">
+      <screen x="-1680" y="-77" width="1680" height="1050" />
+    </state>
+    <state x="-1217" y="252" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1680.-77.1680.1050@-1680.-77.1680.1050" timestamp="1587492954375" />
+    <state x="-1217" y="424" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587133843855" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1680.95.1680.1050@0.0.1440.900" timestamp="1587387545274" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1680.1050@0.0.1440.900" timestamp="1584395514763" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586366523760" />
     <state x="-1217" y="440" key="com.intellij.ide.util.TipDialog/0.23.1440.797/-1680.118.1680.1027@-1680.118.1680.1027" timestamp="1586467223013" />
     <state x="397" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.797/-1680.118.1680.1027@0.23.1440.797" timestamp="1585611428693" />
+    <state x="-1411" y="242" key="new project wizard" timestamp="1587084540422">
+      <screen x="-1680" y="95" width="1680" height="1050" />
+    </state>
+    <state x="-1411" y="242" key="new project wizard/0.0.1440.900/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1587084540422" />
+    <state x="-1411" y="242" key="new project wizard/0.23.1440.877/-1680.95.1680.1050@-1680.95.1680.1050" timestamp="1586989049384" />
     <state x="-1175" y="328" width="670" height="676" key="search.everywhere.popup" timestamp="1585011929373">
       <screen x="-1680" y="95" width="1680" height="1050" />
     </state>

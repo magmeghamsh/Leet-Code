@@ -1,4 +1,4 @@
-package Java.ZZZZ_Misc;
+package Tech.ZZZZ_Misc;
 
 public class TraverseaTree {
 }
