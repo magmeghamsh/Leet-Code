@@ -25,9 +25,6 @@ Note that the answer must be a substring, "pwke" is a subsequence and not a subs
 ```
 
 ## Solution
-
-### Pseudo code:
-
 **My Solution:**
 
 _Step 1:_
