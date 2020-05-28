@@ -1,4 +1,4 @@
-package Tech.ZZZZ_Misc.slidingwindow;
+package Java.ZZZZ_Misc.slidingwindow;
 
 import java.util.HashMap;
 

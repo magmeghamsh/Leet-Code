@@ -1,4 +1,4 @@
-package Tech.B_AddTwoNumbers;
+package Java.B_AddTwoNumbers;
 
 public class EfficientSolution {
 

@@ -1,4 +1,4 @@
-package Tech.O_LongestCommonPrefix;
+package Java.O_LongestCommonPrefix;
 
 public class MySolution {
 

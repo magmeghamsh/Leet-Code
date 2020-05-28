@@ -1,4 +1,4 @@
-package Tech.F_ZigZagConversion;
+package Java.F_ZigZagConversion;
 
 public class EfficientSolution {
 

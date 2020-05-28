@@ -1,4 +1,4 @@
-package Tech.E_LongestPalindromicSubstring;
+package Java.E_LongestPalindromicSubstring;
 
 public class MySolution {
 

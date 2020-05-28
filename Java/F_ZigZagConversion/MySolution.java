@@ -1,4 +1,4 @@
-package Tech.F_ZigZagConversion;
+package Java.F_ZigZagConversion;
 
 import java.util.HashMap;
 import java.util.Map;

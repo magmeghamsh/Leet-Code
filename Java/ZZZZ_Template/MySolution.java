@@ -1,4 +1,4 @@
-package Tech.ZZZZ_Template;
+package Java.ZZZZ_Template;
 
 public class MySolution {
 }

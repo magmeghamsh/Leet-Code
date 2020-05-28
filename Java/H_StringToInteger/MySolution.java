@@ -1,4 +1,4 @@
-package Tech.H_StringToInteger;
+package Java.H_StringToInteger;
 
 public class MySolution {
 

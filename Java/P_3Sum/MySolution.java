@@ -1,4 +1,4 @@
-package Tech.P_3Sum;
+package Java.P_3Sum;
 
 import java.util.ArrayList;
 import java.util.List;

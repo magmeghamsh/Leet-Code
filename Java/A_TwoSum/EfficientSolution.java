@@ -1,4 +1,4 @@
-package Tech.A_TwoSum;
+package Java.A_TwoSum;
 
 import java.util.Arrays;
 import java.util.HashMap;

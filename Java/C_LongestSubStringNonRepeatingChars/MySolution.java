@@ -1,4 +1,4 @@
-package Tech.C_LongestSubStringNonRepeatingChars;
+package Java.C_LongestSubStringNonRepeatingChars;
 
 public class MySolution {
 }

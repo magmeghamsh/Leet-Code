@@ -1,4 +1,4 @@
-package Tech.D_MedianTwoSortedArrays;
+package Java.D_MedianTwoSortedArrays;
 
 public class EfficientSolution {
 
