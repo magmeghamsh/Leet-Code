@@ -27,23 +27,27 @@ Note that the answer must be a substring, "pwke" is a subsequence and not a subs
 ## Solution
 **My Solution:**
 
-_Step 1:_
+1. Iterate over the length of String, starting from i=0; 
+2. Create a sub loop and iterate over the length of a String, starting j=i+1;
+3. If the value doesnt exist in a Dictionary/Data Structure (Set) then add it to set
+4. Else set the max value: MAX(max_value, length of the set)
+5. Make the set to empty as the last step in the second loop.
 
-_Step 2:_
+**_Time complexity:_** 
 
-**_Time complexity:_**  
+since we are having loop with in a loop, the time complexity will be O(n2)
 
 **_Space Complexity:_** 
+O(n)  : we are recreating the set in every  outer iteration.
 
 **Why is it failing?**
+time complexity is O(n2). 
 
 =======================================================================================================================
 
 **Efficient Solution:**
 
-_Step 1:_
-
-_Step 2:_
+1. 
 
 **_Time complexity:_**  
 
