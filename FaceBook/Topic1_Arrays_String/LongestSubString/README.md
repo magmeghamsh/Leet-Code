@@ -47,11 +47,14 @@ time complexity is O(n2).
 
 **Efficient Solution:**
 
-1. 
-
+1. Iterate over the length of the string, starting right pointer=0 and left pointer=0;
+2. If the value does not exists in the Dictionary/Data structure (set) add it to set Else remove the value at left pointer. 
+3. At the end of the loop MAX(max_value, length of the set).
 **_Time complexity:_**  
+Since there is only one loop the time complexity is O(n).
 
 **_Space Complexity:_** 
+O(1):  We are using the one set to iterate thorugh all the operations.
 
 =======================================================================================================================
 ## Rules
