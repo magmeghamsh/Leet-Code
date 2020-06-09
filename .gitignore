@@ -2,6 +2,8 @@
 alexkchavez.*
 .cache
 
+.idea/
+
 *.class
 
 # Package Files #
