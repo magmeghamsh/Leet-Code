@@ -15,7 +15,7 @@ For better understanding of the time complexity lets consider the below example.
 
 _**Case 1 :**_ If only one student knows on which student has the pen.
 <br>
-_**`O(n²)`:**_ You go and ask the first person of the class, if he has the pen. Also, you ask this person about other 99 people in the classroom if 
+_**`O(n²)`:**_ You go and ask the first residentRequest of the class, if he has the pen. Also, you ask this residentRequest about other 99 people in the classroom if 
 they have that pen and so on.
 
 _**Case 2 :**_ If one student had the pen and only they knew it.

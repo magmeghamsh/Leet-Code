@@ -1,4 +1,4 @@
-package FaceBook.Topic1_Arrays_String.LongestSubString;
+package FaceBook.Topic1_Arrays_String.A_LongestSubString;
 
 import java.util.HashSet;
 import java.util.Set;
