@@ -2,7 +2,7 @@
 alexkchavez.*
 .cache
 
-.idea/
+.idea/*
 
 *.class
 
